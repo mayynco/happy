@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para Marcelinha</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f8ff;
+            padding: 20px;
+        }
+        h1 {
+            color: #ff69b4;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+        .photos {
+            margin-top: 20px;
+        }
+        .photos img {
+            width: 200px;
+            height: auto;
+            margin: 10px;
+            border: 2px solid #ff69b4;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Para Marcelinha</h1>
+    <p>Querida Marcelinha,</p>
+    <p>Estou escrevendo para expressar o quanto você significa para mim. Desde o primeiro momento em que nos conhecemos na Pro, nunca imaginei que você se tornaria uma das melhores pessoas que já conheci na vida.</p>
+    <p>Gosto tanto do jeito que a gente conversa. Nossas trocas de palavras são sempre cheias de carinho e sinceridade, e você sempre sabe exatamente o que dizer para me confortar e me fazer sorrir. Seus conselhos são inestimáveis, sempre oferecendo uma nova perspectiva e me ajudando a ver as coisas de uma maneira diferente.</p>
+    <p>Amo como falamos sobre tudo – desde coisas mais simples até as mais profundas. Essas conversas me fazem sentir conectado a você de uma maneira única. E, claro, até nossas mini discussões são especiais, pois elas mostram como nossa amizade é verdadeira e genuína.</p>
+    <p>Saiba que sua presença na minha vida é um presente e que cada momento que passamos juntos é precioso para mim. Obrigado por ser essa amiga incrível e por todos os momentos maravilhosos que compartilhamos. Estou ansioso para continuar vivendo muitas aventuras e conversas inesquecíveis ao seu lado.</p>
+    <p>Com todo o meu carinho,</p>
+    <p>[Seu Nome]</p>
+    <div class="photos">
+        <img src="foto1.jpg" alt="Foto 1">
+        <img src="foto2.jpg" alt="Foto 2">
+        <img src="foto3.jpg" alt="Foto 3">
+    </div>
+</body>
+</html>
